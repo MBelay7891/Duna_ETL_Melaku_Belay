@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
-  DTS:CreationDate="8/10/2020 4:37:58 PM"
+  DTS:CreationDate="8/31/2020 10:26:53 AM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="DESKTOP-GAD3TFM"
   DTS:CreatorName="DESKTOP-GAD3TFM\M"
-  DTS:DTSID="{0C3F95B2-7DBB-4043-883B-514AE4D019D7}"
+  DTS:DTSID="{5C0BEFB0-3133-43CF-88ED-5FB7C1C59749}"
   DTS:ExecutableType="Microsoft.Package"
-  DTS:LastModifiedProductVersion="15.0.2000.123"
+  DTS:LastModifiedProductVersion="15.0.2000.128"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="Pkg_Melaku_Belay_LendingWise"
   DTS:PackageType="5"
-  DTS:VersionBuild="2"
-  DTS:VersionGUID="{D0D9320D-336F-4715-939E-B2DED4F82739}">
+  DTS:VersionBuild="1"
+  DTS:VersionGUID="{67905451-8DC4-4396-9BAF-54BAE971FBC7}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -24,27 +24,5 @@
 <Objects
   Version="8">
   <!--Each node below will contain properties that do not affect runtime behavior.-->
-  <Package
-    design-time-name="Package">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <AnnotationLayout
-          Text="1 change"
-          ParentId="Package"
-          FontInfo="{assembly:Null}"
-          Size="77.5,60"
-          Id="4eb83816-4f3b-466f-ba4a-faab44cd2c17"
-          TopLeft="124,30.5" />
-        <AnnotationLayout
-          Text="Hello world"
-          ParentId="Package"
-          FontInfo="{assembly:Null}"
-          Size="90,60"
-          Id="bee21335-d45e-496d-9459-9f542d760c74"
-          TopLeft="264.5,120" />
-      </GraphLayout>
-    </LayoutInfo>
-  </Package>
 </Objects>]]></DTS:DesignTimeProperties>
 </DTS:Executable>
