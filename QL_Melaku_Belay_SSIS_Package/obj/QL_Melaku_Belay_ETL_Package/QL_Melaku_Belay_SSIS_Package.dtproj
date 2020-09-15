@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">DESKTOP-GAD3TFM</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA37fxwCQlS0SvIdxxuQ5N3QAAAAACAAAAAAAQZgAAAAEAACAAAAAVo3DszWtaRZ4FXOlJAa/ObleWkFqWfFc2ZJbbwtdTiAAAAAAOgAAAAAIAACAAAABRJK0yeFgZ3mrieUZRrNbSpFqwGxjvC7mDaMylCfaWgJAAAADzH0tPf20sLZqBA3cXEbBCei2OACoQjAWTuGbVBMwL/Ob1nMaRpwxRQQT7vhFV28RadJ6bkGLYyuIemTXzPfB4o7nTwy1zMBlJTbGzokxLwC/nRYImD78eAqfFj8cfvGX9/gx8FCkYwQh67A7C4JnM7mWcPQqQ/bkJF8Pwo8VwcOn+T/G9de1McZ7xN+Z4rVNAAAAAopxgYsC/JEO+VM5CP/8OgIoHJ5tcmJFyfjNKjwadg1Ai8bPno+cwveQPZ6kPXoG9/Zu4vI5Og2n2spn3tXisyw==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA37fxwCQlS0SvIdxxuQ5N3QAAAAACAAAAAAAQZgAAAAEAACAAAADHNAg5k+Yem2O3St8o++2/KboPEBR/t7qh0AqcKOm44QAAAAAOgAAAAAIAACAAAADxtL+lsVcKKwTekH6tUnkRvA+u3DNsWvTxVClBYhPymZAAAADdjtk9MkuDqJbg9M4TmQam2w8lzdwm8gEb6gbKWXSWLdXjJA5cEzUZa3k824Ijo5gcjMfEIOgX6pqfeVGcsgFmlrErCmfQUezvNnG542DzLArgK0uP261aYT/yRC5rdQS3iklxjI1OFtj/oo/9j6iTPNsGIPfwmvwsa4SMzsBx+BbHfT3kFd7FUCCuMDIZTv5AAAAAJIqOdgTLM0XyxBykJucR3+16aMJiH50NruMePbRkwN+AEVjwPXrItm2beYJcmLV/DziT5+U40OWjH6g0JP9WCw==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -752,10 +752,10 @@
                 <SSIS:Property SSIS:Name="Name">Pkg_Melaku_Belay_LendingQB</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">186</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">187</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{5B63B6CD-C127-452A-9586-75BA0399A8B9}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{322254E3-E2E0-47CB-A61F-FF683D20E070}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -807,6 +807,30 @@
   <Configurations>
     <Configuration>
       <Name>Development</Name>
+      <Options>
+        <OutputPath>bin</OutputPath>
+        <ConnectionMappings />
+        <ConnectionProviderMappings />
+        <ConnectionSecurityMappings />
+        <DatabaseStorageLocations />
+        <TargetServerVersion>SQLServer2019</TargetServerVersion>
+        <AzureMode>false</AzureMode>
+        <LinkedAzureTenantId />
+        <LinkedAzureAccountId />
+        <LinkedAzureSSISIR />
+        <LinkedAzureStorage />
+        <RemoteExecutionFolder />
+        <ParameterConfigurationValues>
+          <ConfigurationSetting>
+            <Id>LastModifiedTime</Id>
+            <Name>LastModifiedTime</Name>
+            <Value xsi:type="xsd:dateTime">2020-08-25T17:46:09.0854685Z</Value>
+          </ConfigurationSetting>
+        </ParameterConfigurationValues>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>QL_Melaku_Belay_ETL_Package</Name>
       <Options>
         <OutputPath>bin</OutputPath>
         <ConnectionMappings />

@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>QL_Melaku_Belay_SSIS_Package</Name>
-    <LastWriteTime>2020-09-09T23:55:10.0732388Z</LastWriteTime>
+    <LastWriteTime>2020-09-10T00:55:40.391916Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Pkg_Melaku_Belay_LendingQB.dtsx</Name>
-      <LastWriteTime>2020-09-10T00:33:30.8943968Z</LastWriteTime>
+      <LastWriteTime>2020-09-10T00:56:31.1209377Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>

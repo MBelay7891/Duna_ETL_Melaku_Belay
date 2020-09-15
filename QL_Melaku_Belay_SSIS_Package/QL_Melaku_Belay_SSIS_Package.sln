@@ -8,10 +8,13 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
+		QL_Melaku_Belay_ETL_Package|Default = QL_Melaku_Belay_ETL_Package|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B11174B4-FF6F-4D0C-89AB-6395491B90D0}.Development|Default.ActiveCfg = Development
 		{B11174B4-FF6F-4D0C-89AB-6395491B90D0}.Development|Default.Build.0 = Development
+		{B11174B4-FF6F-4D0C-89AB-6395491B90D0}.QL_Melaku_Belay_ETL_Package|Default.ActiveCfg = QL_Melaku_Belay_ETL_Package
+		{B11174B4-FF6F-4D0C-89AB-6395491B90D0}.QL_Melaku_Belay_ETL_Package|Default.Build.0 = QL_Melaku_Belay_ETL_Package
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
